@@ -17,7 +17,7 @@
   <a href="https://linkedin.com/in/danilo-morais-gustavo" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="danilomorais.netlify.app" target="_blank" style="text-decoration: none;">
+  <a href="https://danilomorais.netlify.app/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>  
   </a>
   <a href="https://api.whatsapp.com/send?phone=5594991989803" target="_blank" style="text-decoration: none;">
