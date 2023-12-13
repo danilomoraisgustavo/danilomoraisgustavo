@@ -3,10 +3,8 @@
 <br>
 
 ## 📊 Analytics
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danilomoraisgustavo&bg_color=000000&color=44ff00&line=00ff1e&point=ffffff&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=danilomoraisgustavo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=danilomoraisgustavo&show_icons=true&theme=tokyonight#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilomoraisgustavo&layout=donut)](https://github.com/danilomoraisgustavo)
 
 <br>
 
@@ -32,7 +30,3 @@
 
 <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
 <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,nextjs,mysql" /><br>
-
-## 📈 Contribution
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danilomoraisgustavo&bg_color=000000&color=44ff00&line=00ff1e&point=ffffff&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
