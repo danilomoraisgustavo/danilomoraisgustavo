@@ -5,14 +5,13 @@
 ## 📊 Analytics
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danilomoraisgustavo&bg_color=000000&color=44ff00&line=00ff1e&point=ffffff&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 <br>
 
 ## 📞 Contact
   <a href="mailto:danilo.m.gustavo@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
   </a>
-  <a href="https://linkedin.com/in/danilo-morais-gustavo" target="_blank" style="text-decoration: none;">
+  <a href="https://br.linkedin.com/in/danilo-de-morais-gustavo-408b49204" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/danilomoraisgustavo" target="_blank" style="text-decoration: none;">
