@@ -28,5 +28,5 @@
   
 ## 🆙 Skills
 
-<img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
-<img src="https://skillicons.dev/icons?i=javascript,postgresql,wordpress,node.js" /><br>
+<img src="https://skillicons.dev/icons?i=bootstrap,html,css,github,git, javascript" />
+<img src="https://skillicons.dev/icons?i=postgresql,wordpress,nodejs" /><br>
